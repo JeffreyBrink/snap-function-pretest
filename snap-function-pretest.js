@@ -1,4 +1,0 @@
-if (theansweroflife){
-	True
-}
-
